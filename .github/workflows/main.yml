@@ -20,4 +20,4 @@ jobs:
 
       - name: GITHUB_REF
         run: |
-          echo "GITHUB_REF: ${GITHUB_REF}
+          echo "GITHUB_REF: ${GITHUB_REF}"
